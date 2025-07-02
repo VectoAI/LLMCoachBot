@@ -1,0 +1,9 @@
+
+streamlit
+python-docx
+langchain
+faiss-cpu
+sentence-transformers
+llama-cpp-python
+python-dotenv
+requests
